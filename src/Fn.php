@@ -1,8 +1,6 @@
 <?php
 
-namespace VIN\VIN;
-
-use Illuminate\Http\Request;
+namespace BinaryxDev\VIN;
 
 class Fn {
 

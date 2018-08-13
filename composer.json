@@ -1,7 +1,7 @@
 {
-    "name": "vin/vin",
+    "name": "BinaryxDev/vin",
     "description": "Consultation Vehicle Identification Number in PHP (VIN follow them in English). Consulta de Numero de identificación de Vehículos en PHP (VIN por sus sígalas en ingles). ",
-    "keywords": ["VIN", "system", "Consult", "identifique", "Vehicle identifique Number"],
+    "keywords": ["VIN", "system", "Consult", "identifique", "Vehicle identifique Number", "binaryx-dev"],
     "license": "MIT",
     "authors": [
         {
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "vin\\vin\\": "src/"
+            "BinaryxDev\\vin\\": "src/"
         }
     }
 }
