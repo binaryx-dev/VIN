@@ -2,7 +2,7 @@
 
 namespace BinaryxDev\VIN;
 
-use VIN\VIN\Fn;
+use BinaryxDev\VIN\Fn;
 
 class VIN
 {
