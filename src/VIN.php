@@ -1,6 +1,6 @@
 <?php
 
-namespace BinaryxDev\vin;
+namespace BinaryxDev\VIN;
 
 use BinaryxDev\vin\Fn;
 
